@@ -1,5 +1,3 @@
-ABSTRACT:
-The proposed online application for human resource management aims to streamline and automate HR processes for organizations of all sizes. Leveraging modern web technologies such as HTML, CSS, JavaScript, Angular, and Node.js, coupled with MongoDB as the backend database, the system provides a comprehensive solution for managing various HR tasks efficiently.
 MODULES:
 	Login Module:
 •	User authentication and authorization functionalities.
